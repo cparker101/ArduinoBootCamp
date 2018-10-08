@@ -2,9 +2,9 @@
 Arduino Bootcamp
 - LED Reaction Game - Part 2
 This project demonstrates a reaction game with LEDs. The objective is to push the switch when the Red LED is lit
-created 10/30/2016
-modified 10/30/2016
-by: Lee Assam
+created 10/01/2018
+modified 10/01/2018
+by: Charlie Parker
 */
  
 
