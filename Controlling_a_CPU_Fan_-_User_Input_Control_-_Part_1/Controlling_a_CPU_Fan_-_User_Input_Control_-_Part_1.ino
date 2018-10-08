@@ -4,9 +4,9 @@ Arduino Bootcamp
 This project demonstrates how a CPU Fan can be controlled with the Arduino. 
 The objective is to drive a higher load with an external power source and use a transistor as a switch
 The user will be asked to enter the fan speed
-created 10/30/2016
-modified 10/30/2016
-by: Lee Assam
+created 10/01/2018
+modified 10/01/2018
+by: Charlie Parker
 */
 
 #define motorPin 11
