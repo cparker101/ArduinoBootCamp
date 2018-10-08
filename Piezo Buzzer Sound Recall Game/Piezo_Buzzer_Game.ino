@@ -3,9 +3,9 @@ Arduino Bootcamp
 - Piezo Buzzer Sound Recall Game
 This project demonstrates a game with piezo buzzers. 
 The objective is to play back the sounds that are heard in the exact order that they are played.
-created 10/30/2016
-modified 10/30/2016
-by: Lee Assam
+created 10/01/2018
+modified 10/01/2018
+by: Charlie Parker
 */
 #include <Bounce2.h>
 
