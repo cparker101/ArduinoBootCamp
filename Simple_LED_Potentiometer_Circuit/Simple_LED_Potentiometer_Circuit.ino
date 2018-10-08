@@ -2,9 +2,9 @@
 Arduino Bootcamp
   - Simple LED Potentiometer Circuit
 This project demonstrates how the brightness of an LED can be controlled by a potentiometer using pulse width modulation
-created 10/29/2016
-modified 10/29/2016
-by: Lee Assam
+created 10/01/2018
+modified 10/01/2018
+by: Charlie Parker
 */
 //Set the LED Pin constant globally
 //The LED is connected to Pin 9 of the Arduino
