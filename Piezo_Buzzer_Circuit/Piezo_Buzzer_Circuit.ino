@@ -2,9 +2,9 @@
 Arduino Bootcamp
 - Piezo Buzzer Circuit
 This project demonstrates how a push  button switch can be used to sound a piezo buzer
-created 10/30/2016
-modified 10/30/2016
-by: Lee Assam
+created 10/01/2018
+modified 10/01/2018
+by: Charlie Parker
 */
 //Set the LED Pin constant globally
 //The +ve buzzer pin is connected to pin 9 of the Arduino
